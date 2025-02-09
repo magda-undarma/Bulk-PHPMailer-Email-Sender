@@ -1,0 +1,2 @@
+smtp.server.com|587|username@example.com|password|tls
+smtp.office365.com|587|user@office.com|password|tls

@@ -1,0 +1,12 @@
+{
+    "require": {
+        "phpmailer/phpmailer": "^6.8"
+    },
+    "autoload": {
+        "psr-4": {
+            "Config\\": "src/Config/",
+            "Utils\\": "src/Utils/",
+            "Services\\": "src/Services/"
+        }
+    }
+}
